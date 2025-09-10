@@ -81,7 +81,11 @@ footer {
 figure {
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: 0.5rem;
+}
+
+.avatar {
+    width: 2.3rem;
 }
 
 .avatar-name {
